@@ -1,0 +1,23 @@
+[
+  {
+    "nombre_mascota": "pipi",
+    "edad": "8 años",
+    "tipo_mascota": "gato",
+    "color_mascota": "marron",
+    "enfermedad": "conjuntivitis"
+  },
+  {
+    "nombre_mascota": "cucho",
+    "edad": "10 años",
+    "tipo_mascota": "perro",
+    "color_mascota": "negro",
+    "enfermedad": "parasitos"
+  },
+  {
+    "nombre_mascota": "kike",
+    "edad": "7 años",
+    "tipo_mascota": "perro",
+    "color_mascota": "gris",
+    "enfermedad": "vomitos"
+  }
+]
